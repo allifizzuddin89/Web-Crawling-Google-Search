@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .vscode/settings.json
+google_crawl/google_crawl/spiders/Web-Crawling-Google-Search.code-workspace
